@@ -1,4 +1,4 @@
-# Naoris_Bot 2.0 教程
+# Naoris_Bot 2.1 教程
 ## Naoris Protocol 早期项目
 
 下载钱包并且注册：https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo
@@ -7,7 +7,7 @@
 打开：[https://naorisprotocol.network](https://naorisprotocol.network/testnet) 用钱包注册
 邀请码：OjjTWg433XSZYK6f
 
-### Naoris_Bot 2.0 配置
+### Naoris_Bot 2.1 配置
 #### config配置
 ``accounts.json`` 用户配置
 ```json
@@ -37,7 +37,8 @@ socks5://user:pass@192.168.2.7:7000
 
 输入对应的数据，记得编辑``accounts.json``文件的时候最好用vscode，每次增加账号在{}里面增加。有些骚年在[]里面是不对的。json[]为大括号，{}为数据小括号！记得每个账号要逗号隔离，最后一个账号不需要逗号！切记切记！
 
-![2025-02-07_12-53](https://github.com/user-attachments/assets/5b02bb73-6360-40bc-9cca-02b5e6f83c1d)
+![2025-03-06_12-13](https://github.com/user-attachments/assets/8114fe4b-4091-4dd2-b1d0-b7d968410fc4)
+
 
 
 
